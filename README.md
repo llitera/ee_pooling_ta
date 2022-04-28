@@ -1,4 +1,4 @@
-# Ergodicity-Economics: the effect of pooling ressources for the time avarage
+# Ergodicity-Economics: the effect of pooling ressources for the time avarage of penision funds
 
 Inspired by: Peters, Ole and Adamou, Alexander. (2018). An evolutionary advantage of cooperation. arXiv:1506.03414v2
 
