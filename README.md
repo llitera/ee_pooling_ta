@@ -8,4 +8,4 @@ Simple model of the effect of ressource pooling for the time avarage of pension 
 
 The file contains four simple models. The goal of the models is to show the effect of pooling resources and the impact on the time average.
 
-The result of the different simulations have the clear result that a pension third pillar that is designed with a cooperation mechanisms is superior to a pilalr where each indivdual invest theier money on theyer on. Even if there is only 50% cooperation or the investment behavior gets more risky.
+The result of the different simulations have the clear result that a pension third pillar that is designed with a cooperation mechanisms is superior to a pillar where each indivdual invest theier money on theyer own. Even if there is only 50% cooperation or the investment behavior gets more risky.
